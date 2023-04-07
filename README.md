@@ -12,6 +12,6 @@ You can found in "configured" the binary with all tools recommend by the ANSSI.
    * handle.exe v5.0
    * cpvcon.exe v4.18
    * PsService.exe v2.26
-   * stdlls.exe v3.2
+   * Listdlls.exe v3.2
    * DumpIt.exe v1.3.2.20110401
    * winpmem.exe v4.0 RC2
